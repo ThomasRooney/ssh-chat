@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/shazow/ssh-chat.svg?branch=master)](https://travis-ci.org/shazow/ssh-chat)
 [![Bountysource](https://www.bountysource.com/badge/team?team_id=52292&style=bounties_received)](https://www.bountysource.com/teams/ssh-chat/issues?utm_source=ssh-chat&utm_medium=shield&utm_campaign=bounties_received)
-[![GoDoc](https://godoc.org/github.com/shazow/ssh-chat?status.svg)](https://godoc.org/github.com/shazow/ssh-chat)
+[![GoDoc](https://godoc.org/github.com/ThomasRooney/ssh-chat?status.svg)](https://godoc.org/github.com/ThomasRooney/ssh-chat)
 
 # ssh-chat
 
@@ -24,7 +24,7 @@ The server's RSA key fingerprint is `MD5:e5:d5:d1:75:90:38:42:f6:c7:03:d7:d0:56:
 Recent releases include builds for MacOS (darwin/amd64) and Linux (386,
 amd64, and ARM6 for your RaspberryPi).
 
-**[Grab the latest release here](https://github.com/shazow/ssh-chat/releases/)**.
+**[Grab the latest release here](https://github.com/ThomasRooney/ssh-chat/releases/)**.
 
 
 ## Compiling / Developing
@@ -61,7 +61,7 @@ Help Options:
   -h, --help       Show this help message
 ```
 
-After doing `go get github.com/shazow/ssh-chat/...` on this repo, you should be able
+After doing `go get github.com/ThomasRooney/ssh-chat/...` on this repo, you should be able
 to run a command like:
 
 ```
@@ -73,7 +73,7 @@ daemons to another port) and run ssh-chat as root (or with sudo).
 
 ## Frequently Asked Questions
 
-The FAQs can be found on the project's [Wiki page](https://github.com/shazow/ssh-chat/wiki/FAQ).
+The FAQs can be found on the project's [Wiki page](https://github.com/ThomasRooney/ssh-chat/wiki/FAQ).
 Feel free to submit more questions to be answered and added to the page.
 
 ## License

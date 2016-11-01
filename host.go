@@ -10,10 +10,10 @@ import (
 
 	"github.com/dustin/go-humanize"
 	"github.com/shazow/rateio"
-	"github.com/shazow/ssh-chat/chat"
-	"github.com/shazow/ssh-chat/chat/message"
-	"github.com/shazow/ssh-chat/set"
-	"github.com/shazow/ssh-chat/sshd"
+	"github.com/ThomasRooney/ssh-chat/chat"
+	"github.com/ThomasRooney/ssh-chat/chat/message"
+	"github.com/ThomasRooney/ssh-chat/set"
+	"github.com/ThomasRooney/ssh-chat/sshd"
 )
 
 const maxInputLength int = 1024

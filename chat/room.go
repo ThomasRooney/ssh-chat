@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"net/http"
 	"os"
-	"github.com/shazow/ssh-chat/chat/message"
-	"github.com/shazow/ssh-chat/set"
+	"github.com/ThomasRooney/ssh-chat/chat/message"
+	"github.com/ThomasRooney/ssh-chat/set"
 )
 
 const historyLen = 20
