@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/shazow/ssh-chat/chat"
-	"github.com/shazow/ssh-chat/chat/message"
-	"github.com/shazow/ssh-chat/sshd"
+	"github.com/ThomasRooney/ssh-chat/chat"
+	"github.com/ThomasRooney/ssh-chat/chat/message"
+	"github.com/ThomasRooney/ssh-chat/sshd"
 )
 
 // Identity is a container for everything that identifies a client.

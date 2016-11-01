@@ -10,9 +10,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/shazow/ssh-chat/chat/message"
-	"github.com/shazow/ssh-chat/set"
-	"github.com/shazow/ssh-chat/sshd"
+	"github.com/ThomasRooney/ssh-chat/chat/message"
+	"github.com/ThomasRooney/ssh-chat/set"
+	"github.com/ThomasRooney/ssh-chat/sshd"
 	"golang.org/x/crypto/ssh"
 )
 

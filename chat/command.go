@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/shazow/ssh-chat/chat/message"
-	"github.com/shazow/ssh-chat/set"
+	"github.com/ThomasRooney/ssh-chat/chat/message"
+	"github.com/ThomasRooney/ssh-chat/set"
 )
 
 // The error returned when an invalid command is issued.
