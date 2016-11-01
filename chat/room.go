@@ -13,7 +13,7 @@ import (
 	"github.com/shazow/ssh-chat/set"
 )
 
-const historyLen = 20
+const historyLen = 1
 const roomBuffer = 10
 
 // The error returned when a message is sent to a room that is already

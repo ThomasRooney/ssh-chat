@@ -5,6 +5,7 @@
 # ssh-chat
 
 Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
+Slack hook using the environment variable `SSH_CHAT_WEBHOOK`
 
 ## Demo
 
